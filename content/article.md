@@ -24,8 +24,9 @@ For each page we rank the posts by how many shares they have and assign discreet
 will be in the 90th percentile bin. 
 
 For each document we assign two types of tags:
+
 1. The post id as "Post_ID:[Post ID]
-+ [Page name]_Share_Rank_Percentile. For eaxmple WIRED_90
++ [Page name]_Share_Rank_Percentile, For eaxmple WIRED_90
 
 ## Calculating share rank percentile and building the document iterator
 {% notebook notebook.ipynb cells[-3:] %}
