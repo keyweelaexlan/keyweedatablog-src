@@ -8,7 +8,6 @@ Authors: Alex Lan
 
 
 ![TSNE Visualisation of facebook page similarity]({filename}/images/tsne.png)
-![TSNE Visualisation of facebook page similarity]({filename}/images/decor_and_lonny.png)
 
 
 The original doc2vec paper has no restriciton on the number of labels per document,
